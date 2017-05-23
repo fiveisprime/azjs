@@ -10,7 +10,7 @@
   "author": "Jonathan Carter",
   "license": "MIT",
   "dependencies": {
-    "az-login": "github:lostintangent/az-login",
+    "az-login": "^0.1.9",
     "azure-arm-authorization": "^3.1.1",
     "azure-arm-documentdb": "^1.0.0-preview",
     "azure-arm-rediscache": "^1.0.0-preview",
